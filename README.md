@@ -1,6 +1,13 @@
 # vogo-EAD-rapsberrypi-OS
 A public repository of Raspberry-Pi OS "Imager" compatible images
 
+## Adding this repository to the Raspberry Pi Imager Tool
+
+* Open Raspberry Pi Imager.
+* Go to Settings → Advanced Options → Custom OS List URL.
+* In C:\Program Files (x86)\Raspberry Pi Imager, install a cmd file, that will provide the custom repo to the tool
+* the custome repo can be provided with option --repo https://raw.githubusercontent.com/VogoVokkero/vogo-EAD-rapsberrypi-OS/refs/heads/main/os_list.json
+
 ## Adding New Images (VOGO)
 
 * newly built images are first archived using "xz -z custom-os.img"
