@@ -3,9 +3,9 @@
     {
       "name": "VOGO VOkkero Elite Automation Demonstrator",
       "description": "An image for Raspberry PI4, to be written to an SDCard, using the RaspiPi Imager application",
-      "url": "https://github.com/VogoVokkero/vogo-EAD-rapsberrypi-OS/releases/download/v1.0.0/vokkeroEAD-v1.0.0.img.xz",
+      "url": "github.com/VogoVokkero/vogo-EAD-rapsberrypi-OS/releases/download/v1.0.0/vokkeroEAD-v1.0.0.img.xz",
       "extract_size": 300000000,
-      "icon": "https://github.com/VogoVokkero/vogo-EAD-rapsberrypi-OS/main/icon.png",
+      "icon": "github.com/VogoVokkero/vogo-EAD-rapsberrypi-OS/main/icon.png",
       "subitems": []
     }
   ]
