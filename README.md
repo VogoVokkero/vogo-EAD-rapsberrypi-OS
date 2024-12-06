@@ -1,3 +1,5 @@
+![Logo](icon.png)
+
 # vogo-EAD-rapsberrypi-OS
 A public repository of Raspberry-Pi OS "Imager" compatible images
 
@@ -7,6 +9,13 @@ A public repository of Raspberry-Pi OS "Imager" compatible images
 * Go to Settings → Advanced Options → Custom OS List URL.
 * In C:\Program Files (x86)\Raspberry Pi Imager, install a cmd file, that will provide the custom repo to the tool
 * the custome repo can be provided with option --repo https://raw.githubusercontent.com/VogoVokkero/vogo-EAD-rapsberrypi-OS/refs/heads/main/os_list.json
+
+see file [rpi-imager-vogo.cmd](rpi-imager-vogo.cmd)
+
+* This shall provide VOGO images in Imager:
+
+![Imager](imager.png)
+
 
 ## Adding New Images (VOGO)
 
