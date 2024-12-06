@@ -1,6 +1,6 @@
 ![Logo](icon.png)
 
-# vogo-EAD-rapsberrypi-OS
+# vogo-EAD-raspberrypi-OS
 A public repository of Raspberry-Pi OS "Imager" compatible images
 
 ## Adding this repository to the Raspberry Pi Imager Tool
