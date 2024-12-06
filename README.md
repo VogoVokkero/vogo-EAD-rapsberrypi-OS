@@ -19,6 +19,6 @@ see file [rpi-imager-vogo.cmd](rpi-imager-vogo.cmd)
 
 ## Adding New Images (VOGO)
 
-* newly built images are first archived using "xz -z custom-os.img"
+* newly built images are first archived using "zip custom-os.img"
 * then the compressed archived is added as a release though the "Draft a new release" interface
 
