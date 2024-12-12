@@ -1,4 +1,7 @@
 {
+    "imager": {
+        "url": "https://www.vogo-group.com/en-gb/solution/communication-system-headset-professional-referees-vokkero-elite/"
+    },
     "os_list": [
          {
             "icon": "https://raw.githubusercontent.com/VogoVokkero/vogo-EAD-rapsberrypi-OS/main/icon.png",
