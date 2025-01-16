@@ -5,7 +5,7 @@ A public repository of Raspberry-Pi OS "Imager" compatible images
 
 ## Adding this repository to the Raspberry Pi Imager Tool
 
-* Install the Vokkero Imager from [sharepoint](https://vogosas.sharepoint.com/:u:/r/sites/VOGO-DATA/Documents%20partages/10%20-%20R%26D/SHARED/AUDIO/Gamme%20Elite/Livraison%20Soft/8375%20-%20Elite%20Automation%20Demonstrator%20(EAD)/EAD-imager.zip?csf=1&web=1&e=EEgcCI)
+* Install the Vokkero Imager from [sharepoint](https://vogosas.sharepoint.com/:u:/r/sites/VOGO-DATA/Documents%20partages/10%20-%20R%26D/SHARED/AUDIO/Gamme%20Elite/Livraison%20Soft/8375%20-%20Elite%20Automation%20Demonstrator%20(EAD)/EAD-imager.zip?csf=1&web=1&e=EEgcCI) or from file [EAD-imager-v1.0.0.zip in this repository](EAD-imager-v1.0.0.zip) 
 * This shall provide VOGO images in Imager:
 
 ![Imager](imager.png)
